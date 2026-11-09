@@ -1,94 +1,85 @@
-<div align="center">
+<h1 align="center">Hi, I'm Abderrafea! 👋</h1>
+<h3 align="center">AI Engineering · Data Science · Software Development</h3>
 
-# Abderrafea Elamri
+<p align="center">
+  <strong>Double-degree student · ENSAM Rabat 🇲🇦 × UBO Brest 🇫🇷</strong>
+</p>
 
-### AI Engineering · Data Science · Software Development
-
-**De la donnée à l'application : analyser, construire et intégrer.**
-
-🎓 Double diplôme · Master 2 DOSI à l'UBO & cycle ingénieur Data Science et IA à l'ENSAM Rabat
-
-**🔎 À la recherche d'un stage PFE à partir d'avril 2027**  
-**AI Engineer · Data Scientist · Software Developer**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact-0A66C2?style=flat-square)](https://www.linkedin.com/in/abderrafea-elamri/)
-[![GitHub](https://img.shields.io/badge/GitHub-Mes_projets-181717?style=flat-square&logo=github)](https://github.com/Abderrafea?tab=repositories)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/abderrafea-elamri/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Abderrafea?tab=repositories">Explore my projects</a>
+</p>
 
 ---
 
-## À propos
+### 👨‍💻 A bit about me
 
-Je suis étudiant en double diplôme en **développement logiciel des systèmes d'information** et en **Data Science & intelligence artificielle**. J'aime travailler sur le parcours complet d'un produit : comprendre les données, développer la logique métier et les modèles, exposer des API et construire une interface utilisable.
+I'm studying **Data Science & Artificial Intelligence at ENSAM Rabat** and **Software Development for Information Systems at UBO**, through a double-degree program.
 
-Mes expériences en **AI Engineering** et en **développement full stack** m'ont amené à créer des agents d'analyse de données et des applications fondées sur des microservices. Je recherche un stage de fin d'études où contribuer à des projets d'**IA appliquée**, de **Data Science** ou de **développement logiciel**.
+I enjoy connecting **data, intelligent systems and useful software**: exploring a dataset, building an AI workflow, designing an API and bringing it together in a web application.
 
-> **Open to a final-year internship starting April 2027 in AI Engineering, Data Science or Software Development.**
+- 🤖 Working with **LLMs, RAG, AI agents and fine-tuning with LoRA / PEFT**.
+- 📊 Exploring data through **EDA, feature engineering, visualization and conversational analytics**.
+- ⚙️ Building applications with **Python, Java, FastAPI, Spring Boot and TypeScript**.
+- 🎯 Next step: **final-year internship · April 2027 · AI, Data Science or Software Development**.
 
-## Mes domaines de travail
+### 🧰 Tech stack
 
-| IA & agents | Data Science & analytics | Développement logiciel |
-| :--- | :--- | :--- |
-| Agents IA, RAG et intégration de LLM | Nettoyage et préparation des données | API REST et logique métier |
-| LangGraph, LlamaIndex et Hugging Face | Analyse exploratoire et feature engineering | Spring Boot, Spring Cloud et FastAPI |
-| Fine-tuning avec LoRA / PEFT | Visualisation, indicateurs et dashboards | React, Angular et TypeScript |
-| Évaluation de traduction : BLEU, chrF++ | Python, Pandas, NumPy et SQL | PostgreSQL, RabbitMQ et Docker |
+**Programming**
 
-## Projets à découvrir
+<p>
+  <img src="assets/python.svg" height="45" width="45" alt="Python" /> &nbsp;
+  <img src="assets/java.svg" height="45" width="45" alt="Java" /> &nbsp;
+  <img src="assets/typescript.svg" height="45" width="45" alt="TypeScript" />
+</p>
 
-### [InsightForge](https://github.com/Abderrafea/InsightForge)
-**IA appliquée · Analyse de données · Full stack**
+**AI & Data Science**
 
-Création de dashboards à partir d'une conversation : exploration du schéma PostgreSQL, génération et validation de requêtes SQL en lecture seule, puis affichage de graphiques et d'indicateurs. Une même interface permet de travailler avec plusieurs fournisseurs de modèles.
+<p>
+  <img src="assets/python.svg" height="45" width="45" alt="Python" /> &nbsp;
+  <img src="assets/numpy.svg" height="45" width="45" alt="NumPy" /> &nbsp;
+  <img src="assets/pandas.svg" height="45" width="45" alt="Pandas" />
+</p>
 
-`Python` `FastAPI` `LangGraph` `PostgreSQL` `React` `TypeScript`
+`LangGraph` · `LlamaIndex` · `Hugging Face Transformers` · `RAG` · `AI Agents` · `LoRA / PEFT` · `Matplotlib` · `Seaborn`
 
-### [Excel Agent AI](https://github.com/Abderrafea/excel-agent-ai)
-**Agents IA · Analyse commerciale · Visualisation**
+**Backend, Frontend & Databases**
 
-Application d'analyse de fichiers Excel en langage naturel : graphiques, comparaisons, détection de clients à risque et génération de rapports. Une interface Angular communique avec une API FastAPI et un agent utilisant Groq.
+<p>
+  <img src="assets/spring.svg" height="45" width="45" alt="Spring Boot" /> &nbsp;
+  <img src="assets/fastapi.svg" height="45" width="45" alt="FastAPI" /> &nbsp;
+  <img src="assets/react.svg" height="45" width="45" alt="React" /> &nbsp;
+  <img src="assets/angular.svg" height="45" width="45" alt="Angular" /> &nbsp;
+  <img src="assets/postgresql.svg" height="45" width="45" alt="PostgreSQL" />
+</p>
 
-`Python` `FastAPI` `Pandas` `Angular` `PostgreSQL` `Docker`
+**Dev Tools & Infrastructure**
 
-### [Recruitment Microservices Platform](https://github.com/Abderrafea/recrutement-microservices)
-**Backend Java · Architecture distribuée · Full stack**
+<p>
+  <img src="assets/docker.svg" height="45" width="45" alt="Docker" /> &nbsp;
+  <img src="assets/git.svg" height="45" width="45" alt="Git" /> &nbsp;
+  <img src="assets/linux.svg" height="45" width="45" alt="Linux" />
+</p>
 
-Plateforme de recrutement avec services dédiés aux utilisateurs, offres, candidatures, notifications et reporting. API Gateway, découverte de services, authentification JWT et messagerie asynchrone structurent les échanges.
+`Spring Cloud` · `RabbitMQ` · `REST APIs` · `SQL` · `Pytest` · `CI/CD`
 
-`Java` `Spring Boot` `Spring Cloud` `React` `PostgreSQL` `RabbitMQ`
+### 🚀 Featured projects
 
-### [Ecommerce Website](https://github.com/Abderrafea/Ecommerce_Website)
-**Développement web · API · Interface utilisateur**
+- **📊 [InsightForge](https://github.com/Abderrafea/InsightForge)** — Build and refine PostgreSQL dashboards through conversation, with schema exploration and validated read-only SQL. `FastAPI` `LangGraph` `React` `PostgreSQL`
+- **🤖 [Excel Agent AI](https://github.com/Abderrafea/excel-agent-ai)** — Ask questions about Excel data, create charts, compare results and generate business reports. `Python` `Pandas` `FastAPI` `Angular`
+- **⚙️ [Recruitment Microservices](https://github.com/Abderrafea/recrutement-microservices)** — Recruitment workflows with an API gateway, service discovery, JWT authentication and asynchronous notifications. `Spring Boot` `Spring Cloud` `React` `RabbitMQ`
+- **🛒 [Ecommerce Website](https://github.com/Abderrafea/Ecommerce_Website)** — Product catalog, shopping cart, orders and administration in a full-stack web application. `Node.js` `Express` `Vue.js` `MongoDB`
 
-Application e-commerce avec catalogue, panier, commandes, authentification et espace d'administration.
+### 🎓 Background
 
-`Node.js` `Express` `Vue.js` `MongoDB` `Tailwind CSS`
+- **UBO, Brest:** Master 2 DOSI — Software Development for Information Systems, since 2026.
+- **ENSAM Rabat:** Engineering in Data Science & Artificial Intelligence, since 2024.
+- **Internships:** AI Engineering at **GEODEMAT** (2026) · Full-stack Development at **VPI INFO** (2025).
 
-## Expériences
+### ☕ Let's connect
 
-**AI Engineer Intern — GEODEMAT** · Juin–août 2026  
-Développement d'un agent d'analyse commerciale de fichiers Excel : questions en langage naturel, visualisations, détection de clients à risque et rapports programmés.
+I enjoy discussing practical AI, interesting datasets and software that solves real problems. Feel free to explore my projects or [reach out on LinkedIn](https://www.linkedin.com/in/abderrafea-elamri/).
 
-**Full Stack Developer Intern — VPI INFO** · Juin–août 2025  
-Développement d'une plateforme de recrutement avec des microservices Spring Boot et une interface React : API sécurisées, notifications asynchrones et conteneurisation.
+**French** · **English** · **Arabic**
 
-## Formation
-
-- **Master 2 DOSI — Développement logiciel des systèmes d'information** · Université de Bretagne Occidentale, Brest · Depuis 2026, en double diplôme.
-- **Cycle ingénieur — Data Science & intelligence artificielle** · ENSAM Rabat · Depuis 2024.
-
-## Outils & pratiques
-
-**Langages :** Python, Java, TypeScript, SQL.  
-**Données & IA :** Pandas, NumPy, Matplotlib, Seaborn, Transformers, RAG, LoRA, PEFT, LangGraph, LlamaIndex.  
-**Applications :** FastAPI, Spring Boot, Spring Cloud, React, Angular, API REST, JWT.  
-**Infrastructure & qualité :** PostgreSQL, RabbitMQ, Docker Compose, Linux, Git, GitHub/GitLab, Maven, Pytest, CI/CD.
-
-## Échangeons
-
-Vous recherchez un stagiaire PFE pour un projet **IA**, **data** ou **logiciel** à partir d'**avril 2027** ? Je serais ravi d'échanger sur les besoins de votre équipe et les projets auxquels je pourrais contribuer.
-
-💼 [LinkedIn](https://www.linkedin.com/in/abderrafea-elamri/)
-
-**Langues :** français courant · anglais professionnel · arabe langue maternelle.
+<sub>Technology icons: [Devicon](https://github.com/devicons/devicon), distributed under the [MIT license](assets/DEVICON-LICENSE.txt).</sub>
